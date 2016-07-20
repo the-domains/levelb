@@ -12,3 +12,8 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
 name: levelb
+navigation:
+  - id: 'http://benjaminblue.me'
+    url: 'http://benjaminblue.me'
+    name: main page
+    type: external
