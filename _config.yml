@@ -1,0 +1,14 @@
+layout_spectrum: 0.2470520786009729
+typography_spectrum: 0.3185571550857276
+color:
+  brandStrength: 0.3888873558025807
+  lightness: 0.6931688499171287
+  saturation: 0.800015636254102
+  rhythmicContrast: 0.2457124670036137
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: levelb
